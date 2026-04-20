@@ -119,10 +119,10 @@ C:\Users\ramon\OneDrive\Desktop\.NET Course\My personal projects\BoardSystem\Boa
 C:\Users\ramon\OneDrive\Desktop\.NET Course\My personal projects\BoardSystem\BoardSystem\obj\Debug\net10.0\staticwebassets.development.json
 C:\Users\ramon\OneDrive\Desktop\.NET Course\My personal projects\BoardSystem\BoardSystem\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 C:\Users\ramon\OneDrive\Desktop\.NET Course\My personal projects\BoardSystem\BoardSystem\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\ramon\OneDrive\Desktop\.NET Course\My personal projects\BoardSystem\BoardSystem\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\ramon\OneDrive\Desktop\.NET Course\My personal projects\BoardSystem\BoardSystem\obj\Debug\net10.0\BoardSys.ADAF2C82.Up2Date
 C:\Users\ramon\OneDrive\Desktop\.NET Course\My personal projects\BoardSystem\BoardSystem\obj\Debug\net10.0\BoardSystem.dll
 C:\Users\ramon\OneDrive\Desktop\.NET Course\My personal projects\BoardSystem\BoardSystem\obj\Debug\net10.0\refint\BoardSystem.dll
 C:\Users\ramon\OneDrive\Desktop\.NET Course\My personal projects\BoardSystem\BoardSystem\obj\Debug\net10.0\BoardSystem.pdb
 C:\Users\ramon\OneDrive\Desktop\.NET Course\My personal projects\BoardSystem\BoardSystem\obj\Debug\net10.0\BoardSystem.genruntimeconfig.cache
 C:\Users\ramon\OneDrive\Desktop\.NET Course\My personal projects\BoardSystem\BoardSystem\obj\Debug\net10.0\ref\BoardSystem.dll
+C:\Users\ramon\OneDrive\Desktop\.NET Course\My personal projects\BoardSystem\BoardSystem\obj\Debug\net10.0\BoardSystem.sourcelink.json

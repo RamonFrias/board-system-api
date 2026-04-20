@@ -14,6 +14,7 @@ namespace BoardSystem.Domains
         public string Content { get; set; }
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
         [Required]
+        [Range(1, int.MaxValue, ErrorMessage = "O valor deve ser no mínimo 1")]
         public int TaskId { get; set; }
         public Tasks Task { get; set; }
     }
