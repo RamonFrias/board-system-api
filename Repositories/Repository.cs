@@ -8,7 +8,7 @@ namespace BoardSystem.Repositories
     public class Repository<T> : IRepository<T> where T : class
     {
         private readonly ApiDbContext _context;
-        public Repository(ApiDbContext context) => _context = context;
+        public Repository(ApiDbContext context){ _context = context; }
         public IQueryable<T> GetAll()
         {
             return _context.Set<T>().AsNoTracking();

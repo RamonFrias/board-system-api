@@ -13,7 +13,12 @@ namespace BoardSystem.Repositories
 
         private ITaskRepository _taskRepository;
 
-        private readonly ApiDbContext _context;
+        public ApiDbContext _context;
+
+        public UnitOfWork(ApiDbContext context)
+        {
+            _context = context;
+        }
 
         public IUserRepository UserRepository
         {

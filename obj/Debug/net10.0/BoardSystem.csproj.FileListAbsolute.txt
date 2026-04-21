@@ -126,3 +126,4 @@ C:\Users\ramon\OneDrive\Desktop\.NET Course\My personal projects\BoardSystem\Boa
 C:\Users\ramon\OneDrive\Desktop\.NET Course\My personal projects\BoardSystem\BoardSystem\obj\Debug\net10.0\BoardSystem.genruntimeconfig.cache
 C:\Users\ramon\OneDrive\Desktop\.NET Course\My personal projects\BoardSystem\BoardSystem\obj\Debug\net10.0\ref\BoardSystem.dll
 C:\Users\ramon\OneDrive\Desktop\.NET Course\My personal projects\BoardSystem\BoardSystem\obj\Debug\net10.0\BoardSystem.sourcelink.json
+C:\Users\ramon\OneDrive\Desktop\.NET Course\My personal projects\BoardSystem\BoardSystem\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

@@ -2,10 +2,10 @@
 {
     public interface IUnitOfWork
     {
-        public IUserRepository UserRepository { get; }
-        public IBoardRepository BoardRepository { get; }
-        public ICommentRepository CommentRepository { get; }
-        public ITaskRepository TaskRepository { get; }
+        IUserRepository UserRepository { get; }
+        IBoardRepository BoardRepository { get; }
+        ICommentRepository CommentRepository { get; }
+        ITaskRepository TaskRepository { get; }
         void Commit();
         void Dispose();
     }
